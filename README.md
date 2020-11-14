@@ -12,5 +12,11 @@ This repository is used to develop classifiers for the Kaggle competition given 
    - `https://github.com/tsj1992/CS5227-DM-A2-Titanic-Machine-Learning-from-Disaster`
 3. Run jupyter notebook server from the command prompt/terminal.
    - `jupyter notebook`
-4. Open the jupyter notebook **ML Competition - TITANIC** and from the menu, select **Cell > Run All**
-5. GOOD LUCK AND ENJOY !!!
+4. Open the jupyter notebook **ML Competition - TITANIC**.
+5. Change the Run Configurations as needed.
+   - DCT - Decision Tree Classifier
+   - GNB - Gaussian Naive Bayes Classifier
+   - SVM - Support Vector Machine
+   - N-SPLIT - k value of k-Fold cross validation
+6. From the menu, select **Cell > Run All**
+7. GOOD LUCK AND ENJOY !!!
